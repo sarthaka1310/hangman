@@ -1,4 +1,4 @@
-#Hangman
+# Hangman
 
 
 The given program represents a game of hangman which requires a few changes to be made to it.
